@@ -1,5 +1,5 @@
-s=str(input())
-if s=="a" or s=="e" or s=="i" or s=="o" or s=="u":
+g=str(input())
+if g=="a" or g=="e" or g=="i" or g=="o" or g=="u":
 	print("Vowel")
 else:
 	print("Consonant")
