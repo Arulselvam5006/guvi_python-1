@@ -4,8 +4,8 @@ if year%4==0 :
     if (year % 400) == 0:
       print("leap year")
     else:
-      print("not")
+      print("no")
   else:
     print("leap year")
 else:
-  print("not")
+  print("no")
